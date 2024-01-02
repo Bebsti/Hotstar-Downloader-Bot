@@ -4,7 +4,6 @@ class Translation(object):
 I ƈαɳ ʂυρρσɾƚ Hσƚʂƚαɾ, Gσσɠʅҽ Dɾιʋҽ, αɳԃ ɱυƈԋ ɱσɾҽ Lιɳƙʂ😌!
 Sҽɳԃ Mҽ Aɳყ Dιɾҽƈƚ Dσɯɳʅσαԃ URL Lιɳƙ, I Cαɳ Uρʅσαԃ Tσ Tҽʅҽɠɾαɱ Aʂ Fιʅҽ/Vιԃҽσ!
 Aԃԃҽԃ Pҽɾɱαɳҽɳƚ TԋυɱႦɳαιʅ Sυρρσɾƚ💯😋!!
-Sυρρσɾƚ Gɾσυρ : @TeleRoid14
 """
 
     HELP_USER = """It's not that complicated to use meh! 😅
@@ -19,27 +18,10 @@ Sυρρσɾƚ Gɾσυρ : @TeleRoid14
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 NB : It is Recommended To Use A Custom Thumbnail Because, Some Time Won't Upload The File Without a Custom Thumbnail.
-Support Group : @TeleRoid14
 """
 
 
-    ABOUT_TEXT = """<b>🤖 My Name : @TeleRoid_Hotstar_Bot</b>
-
-<b>👨‍💻 Creator : @PredatorHackerzZ_bot</b>
-
-<b>📝 Language : Python3</b>
-
-<b>📡 Server : <a href='https://www.heroku.com'> Heroku </a></b>
-
-<b>📔 Library : Pyrogram 1.0.7</b>
-
-<b>📌 Source Code : 👉 <a href='https://github.com/P-Phreak/URLuploader-With-Hotstar'>Click Here</a></b>
-
-<b>🛑 Discussion : 👉 <a href='https://t.me/TeleRoid14'> Support Group </a></b>
-
-<b>⭕ Updates : 👉 <a href='https://t.me/TeleRoidGroup'> Channel Group </a></b>
-
-<b>💎 Telegram Botlist : <a href='https://t.me/TGRobot_List'> TGRobot_List </a></b>"""
+    ABOUT_TEXT = """<b>🤖 Confidential</b></b>"""
 
 
 
@@ -55,14 +37,14 @@ You can use /deletethumbnail to delete the auto-generated thumbnail."""
 URL | newfilename | username | password"""
 
 
-    UPGRADE_TEXT = """<b>👉 If You Liked Our Bots @TheTeleRoid And Service Feel Free To Donate...Us 🥰</b>
-  If You Want Any Private Bot Or Supscription Feel Free To Contact Me...@PredatorHackerzZ_bot...."""
+    UPGRADE_TEXT = """<b>👉 If You Liked Our Bots And Service Feel Free To Donate...Us 🥰</b>
+  If You Want Any Private Bot Or Supscription Feel Free To Contact Me.."""
     
-    DOWNLOAD_START = "Trying to download to my Server, Wait For Some Time 😇\n\n@TheTeleRoid14"
+    DOWNLOAD_START = "Trying to download to my Server, Wait For Some Time 😇"
     
     UPLOAD_START = "Trying to upload.....📤"
     
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n\nUploaded in {} seconds.\n\nFor TeleRoid Bots \n\nJoin : @TheTeleRoid and @TGRobot_List"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n\nUploaded in {} seconds."
 
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nAre You Fool, I cannot upload files greater than 1.95GB due to Telegram API limitations."
 
